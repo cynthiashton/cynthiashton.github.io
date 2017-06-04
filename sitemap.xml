@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../../sitemap.xsl" type="text/xsl" media="all"?>
+<site>
+<page file="index.html" text="Cynthia Ashton" title="Cynthia Ashton : Welcome Statement">
+<page file="welcome.html" text="Welcome Statement" title="Cynthia Ashton : Welcome Statement"/>
+<page file="mission.html" text="Mission Statement" title="Cynthia Ashton : Mission Statement"/>
+<page file="resume.html" text="Resume" title="Cynthia Ashton : Resume"/>
+<page file="comps.html" text="Major: Liberal Studies; Classes &amp; Competencies" title="Cynthia Ashton : Major: Liberal Studies; Classes &amp; Competencies"/>
+<page file="aas.html" text="Minor: Asian American Studies" title="Cynthia Ashton : Minor: Asian American Studies"/>
+<page file="japnlang.html" text="Minor: Japanese Language" title="Cynthia Ashton : Minor: Japanese Language"/>
+<page file="valueskill.html" text="Values, Skills, Experience, and Leadership" title="Cynthia Ashton : Values, Skills, Experience, and Leadership"/>
+</page>
+</site>
