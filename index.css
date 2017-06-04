@@ -1,7 +1,7 @@
 /* ::::: file:///Users/strauberry/Library/Application%20Support/Firefox/Profiles/ssvaj1m0.default/ScrapBook/data/20170603135324/index.css ::::: */
 
 html { font-family: sans-serif; }
-body { margin: 0px; background-color: purple; }
+body { margin: 0px; background-color: purple;!important }
 article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary { display: block; }
 audio:not([controls]) { display: none; height: 0px; }
 a { background-color: transparent; }
